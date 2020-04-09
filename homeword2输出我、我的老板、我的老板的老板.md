@@ -1,4 +1,4 @@
-## homework2
+## 数据库作业2
 ## 内连接INNER JOIN的应用
 ```sql
 DROP TABLE IF EXISTS t_employee2;
