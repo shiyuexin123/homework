@@ -1,4 +1,4 @@
-## homework3
+## 数据库作业3
 ## 一、where
 ```sql
 select*from t_employee WHERE sal>(select sal from t_employee WHERE ename='SMITH');
